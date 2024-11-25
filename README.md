@@ -4,7 +4,7 @@ Fallout 4 cheat stuff (console cmd and farming)
 This IS somewhat disorganized and I probably won't clean it up. :P When in doubt, Use The Most Recent Version. I'll try to ID stuff by savefile name but eh. =^_^=
 
 
-Save1_A22D40DD - Summary: bunch o' stuffs plus Marine Armor
+Save1_A22D40DD - Summary: bunch o' stuffs plus Marine Armor. No buttloads of stuff I don't use sitting around, but plenty of other.
 
 
 Save115_A22D40DD, Save177_A22D40DD - Summary: bunch o' stuffs
